@@ -26,3 +26,5 @@ let obj3 = {
 }
 getValue(obj3,["name","age","marrired"])
 ```
+
+## 声明文件不成功
